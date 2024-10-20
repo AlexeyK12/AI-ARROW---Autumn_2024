@@ -12,3 +12,5 @@
 |3              |[Классические алгоритмы машинного обучения для CV](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Лекция_3.pdf) |Задачи решаемые CV|
 |4              |[Введение в нейронные сети](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Лекция_4.pdf) |Задачи и методы "Глубокого обучения"|
 |5              |[Свёрточные нейронные сети (CNN)](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Лекция_5.pdf) |Принципы построения свёрточных нейронных сетей|
+|6              |[Детекция объектов на изображении](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Лекция_6.pdf) |Цикл задачи детекции объектов|
+|7              |[Сегментация изображений](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Лекция_7.pdf) |Цикл задачи сегментации объектов|
