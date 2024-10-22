@@ -14,3 +14,4 @@
 |5              |[Свёрточные нейронные сети (CNN)](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Лекция_5.pdf) |Принципы построения свёрточных нейронных сетей|
 |6              |[Детекция объектов на изображении](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Лекция_6.pdf) |Цикл задачи детекции объектов|
 |7              |[Сегментация изображений](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Лекция_7.pdf) |Цикл задачи сегментации объектов|
+|7              |[Финальный проект](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/%22ДЗ_1_AI_ARROW_4_tasks_ipynb%22.ipynb) |Реализация моделей CV|
