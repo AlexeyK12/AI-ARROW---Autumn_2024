@@ -12,6 +12,9 @@
 |3              |[Классические алгоритмы машинного обучения для CV](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Лекция_3.pdf) |Задачи решаемые CV|
 |4              |[Введение в нейронные сети](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Лекция_4.pdf) |Задачи и методы "Глубокого обучения"|
 |5              |[Свёрточные нейронные сети (CNN)](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Лекция_5.pdf) |Принципы построения свёрточных нейронных сетей|
-|6              |[Детекция объектов на изображении](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Лекция_6.pdf) |Цикл задачи детекции объектов|
-|7              |[Сегментация изображений](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Лекция_7.pdf) |Цикл задачи сегментации объектов|
-|7              |[Финальный проект](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/%22ДЗ_1_AI_ARROW_4_tasks_ipynb%22.ipynb) |Реализация моделей CV|
+|6              |[Имплементация LeNet-5](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/lenet5_pytorch.ipynb) |Разбор LeNet-5|
+|7              |[Детекция объектов на изображении](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Лекция_6.pdf) |Цикл задачи детекции объектов|
+|8              |[Сегментация изображений](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Лекция_7.pdf) |Цикл задачи сегментации объектов|
+|9              |[Метрики оценки моделей и улучшение производительности](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Лекция_8.pdf) |Лекция по метрикам|
+|10             |[Instance_Segmentation](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/Instance_Segmentation.ipynb) |Практика по сегментации|
+|11             |[Финальный проект](https://github.com/AlexeyK12/AI-ARROW---Autumn_2024/blob/main/%22ДЗ_1_AI_ARROW_4_tasks_ipynb%22.ipynb) |Реализация моделей CV|
